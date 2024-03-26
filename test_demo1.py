@@ -3,7 +3,7 @@ import pytest
 class Test_demo:
 
     def test_one(self):
-        a=5
+        a=1
         b=4
         assert a>b, "a is not greater than b"
 
