@@ -1,1 +1,1 @@
-pytest test_demo1.py v --html=report.html
+pytest test_demo1.py 
