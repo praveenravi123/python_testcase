@@ -43,12 +43,12 @@ class Test_demo:
         assert a == b, "a is not equal than b"
 
     def test_nine(self):
-        a = 6
+        a = 2
         b = 4
         assert a * b > 10, "a*b is not greater than 10"
 
     def test_ten(self):
-        a = 5
+        a = 6
         b = 4
         assert a - b == 1, "a-b is not equla to 1"
 
